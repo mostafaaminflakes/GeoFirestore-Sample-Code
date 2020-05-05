@@ -12,6 +12,12 @@ cd folder/to/clone-into/
 git clone https://github.com/mostafaaminflakes/GeoFirestoreExample.git
 ```
 
+## Dependencies
+Make sure to install the following dependencies:
+* firebase
+* geofirestore
+* lodash
+
 ## Usage
 
 Considering your Node, npm, Expo, React Native environment installed:
