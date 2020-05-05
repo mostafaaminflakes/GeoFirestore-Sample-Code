@@ -1,6 +1,6 @@
 # GeoFirestoreSampleCode
 
-This example is using [GeoFirestore](https://github.com/geofirestore/geofirestore-js) to store some dummy locations and query nearby locations based on a given geographic location.
+This example is using GeoFirestore to store some dummy locations and query nearby locations based on a given geographic location.
 
 ## Downloading GeoFirestoreSampleCode
 
